@@ -2,12 +2,6 @@
     "name": "wordpress-mysql",
     "description": "deploy mysql to heroku",
     "keywords": ["mysql"],
-    "env": {
-        "PROTOCOL": {
-            "description": "mysql protocol, tcp",
-            "value": "tcp"
-        }
-    },
     "repository": "https://github.com/xiezhao/dockerfile-mysql",
     "stack": "container"
 }
