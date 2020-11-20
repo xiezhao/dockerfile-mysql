@@ -2,6 +2,7 @@
     "name": "wordpress-mysql",
     "description": "deploy mysql to heroku",
     "keywords": ["mysql"],
+    "website": "https://interviewcomplete.com",
     "repository": "https://github.com/xiezhao/dockerfile-mysql",
     "stack": "container"
 }
