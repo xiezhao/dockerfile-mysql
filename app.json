@@ -1,0 +1,9 @@
+{
+    "name": "wordpress-mysql",
+    "description": "deploy mysql to heroku",
+    "keywords": ["mysql"],
+    "env": {
+    },
+    "repository": "https://github.com/xiezhao/dockerfile-mysql",
+    "stack": "container"
+}
