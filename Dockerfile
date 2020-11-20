@@ -9,5 +9,3 @@ COPY privileges.sql /mysql/privileges.sql
  
 #设置容器启动时执行的命令
 CMD ["sh", "/mysql/setup.sh"]
-
-EXPOSE 3307
